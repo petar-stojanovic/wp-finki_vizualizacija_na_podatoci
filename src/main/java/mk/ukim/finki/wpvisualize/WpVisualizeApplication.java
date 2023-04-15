@@ -10,4 +10,5 @@ public class WpVisualizeApplication {
 		SpringApplication.run(WpVisualizeApplication.class, args);
 	}
 
+
 }
